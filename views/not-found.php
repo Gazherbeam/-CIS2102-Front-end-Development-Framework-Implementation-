@@ -1,0 +1,1 @@
+<section class="wrap empty-state not-found"><span>✳</span><h1>This dish is off the menu.</h1><p>We couldn’t find that review, but there are plenty more to discover.</p><a class="button button-dark" href="?page=discover">Explore reviews ↗</a></section>

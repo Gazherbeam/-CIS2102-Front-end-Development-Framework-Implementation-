@@ -1,0 +1,5 @@
+/uploads/*
+!/uploads/.gitkeep
+.project-reference/
+.local-db/
+*.log
